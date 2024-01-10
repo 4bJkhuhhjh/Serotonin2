@@ -2,7 +2,7 @@ name: Build Serotonin
 
 on:
   push:
-    branches: [ main ]
+    branches: [ A12restart ]
   workflow_dispatch:
 
 jobs:
